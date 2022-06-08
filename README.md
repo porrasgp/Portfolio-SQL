@@ -43,19 +43,49 @@ Functions: Aggregations, Joins, CTEs, Window functions (aggregates, ranking, run
 
 ## 📚 SQL Resources
 
-I compiled a comprehensive list of free SQL resources ranging from YouTube videos, courses, interactive websites, practice sites, and projects. 
+Here's a comprehensive list of free SQL resources which most of them I have practiced and attempted myself or are highly recommended for beginners regardless of whether you're from data or non-data background.
 
-Click **[here](https://www.linkedin.com/posts/katiehuangx_sql-for-data-analysis-udacity-free-courses-activity-6838753919229931520-u44C)** to view the post on LinkedIn!
+***
 
-<knb><img width="535" alt="Screenshot 2021-09-29 at 9 28 28 PM" src="https://user-images.githubusercontent.com/81607668/135277994-a45a6cf2-becc-464b-a0c3-5315bef99f33.png"></knb>
+## 📺 YouTube
+**1. Alex Freberg**
+- Basic - https://lnkd.in/gEPqCqUh
+- Intermediate - https://lnkd.in/g_sYJgw3
+- Advanced - https://lnkd.in/gzt72UdA
+2. **Programming with Mosh** - 3-hour course - https://lnkd.in/gAiZwfQQ
+3. **freeCodeCamp** - 4-hour course  - https://lnkd.in/gH9tYvsx
+4. **Edureka** - 4-hour tutorial - https://lnkd.in/gAwYniXM
+5. **Kudvenkat** - https://lnkd.in/gZSQbS-e 
 
-## ✏️ [How to Create a GitHub Portfolio](https://github.com/katiehuangx/How-to-Create-a-GitHub-Portfolio/blob/main/README.md)
+***
 
-After receiving several messages asking for tips on how to create a GitHub portfolio, I decided to create a step-by-step tutorial with images to teach beginners to set up their portfolio. 
+## 📚 Courses
+1. **Udacity SQL for Data Analysis** - https://lnkd.in/gzsyYZs4
+2. **Kaggle**
+- Intro to SQL - https://lnkd.in/gbGFuaKm
+- Advanced SQL - https://lnkd.in/gpCrW74C
+3. **Danny Ma's SQL Masterclass Course** - https://lnkd.in/ge7zyWzu
 
-What you will learn in my guide:
-- How to Create Your Profile?
-- How to Customize Markdown files?
-- How to Create New Repository?
+***
+
+## 🔎 Quizzes
+1. **SQL Murder Mystery** - https://lnkd.in/gmZvA-i8
+2. **SQL Bolt** - https://sqlbolt.com/
+3. **Select Star SQL** - https://selectstarsql.com/
+4. **W3schools** - https://lnkd.in/gXyQF3eU
+5. **SQL Zoo** - https://sqlzoo.net
+
+***
+
+## 🔎 Projects/Case Studies
+1. **Covid-19 Project** - https://lnkd.in/g8PqmFzb
+2. **8 Week SQL Challenges** - https://lnkd.in/gjucZR6T. Check out my repo for solutions: https://lnkd.in/gkaNAibU
+
+***
+
+## 📝 Practice
+1. StrataScratch - https://lnkd.in/gBTMYcmm
+2. LeetCode - https://lnkd.in/gXv63ebx
+3. HackerRank - https://lnkd.in/gAywRHs6
 
 ***
