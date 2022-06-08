@@ -10,10 +10,7 @@ Feel free to chat with me on [LinkedIn](https://www.linkedin.com/in/porrasgp/) a
 
 ## 📚 Table of Contents
 
-- [Python](#python)
-- [SQL](#sql)
-- [Tableau](#tableau)
-- [Katie's Guides](#katies-guides)
+- [Gio's Guides](#gio-guides)
 
 _Click on the project's title (**bold** and coloured in Blue) to view my projects! Thank you! ☺️_
 
@@ -76,7 +73,7 @@ Functions: Aggregations, Joins, CTEs, Window functions (aggregates, ranking, run
 
 ***
 
-# Katie's Guides
+# Gio's Guides
 
 ## 📚 SQL Resources
 
