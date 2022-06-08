@@ -10,7 +10,7 @@ Feel free to chat with me on [LinkedIn](https://www.linkedin.com/in/porrasgp/) a
 
 ## 📚 Table of Contents
 
-- [Gio's Guides](#Gio's Guides)
+- [Gio's Guides](#gio-guides)
 
 _Click on the project's title (**bold** and coloured in Blue) to view my projects! Thank you! ☺️_
 
