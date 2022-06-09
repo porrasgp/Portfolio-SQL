@@ -49,13 +49,19 @@ Here's a comprehensive list of free SQL resources which most of them I have prac
 
 ## 📺 YouTube
 **1. Alex Freberg**
-- Basic - https://lnkd.in/gEPqCqUh
-- Intermediate - https://lnkd.in/g_sYJgw3
-- Advanced - https://lnkd.in/gzt72UdA
-2. **Programming with Mosh** - 3-hour course - https://lnkd.in/gAiZwfQQ
-3. **freeCodeCamp** - 4-hour course  - https://lnkd.in/gH9tYvsx
-4. **Edureka** - 4-hour tutorial - https://lnkd.in/gAwYniXM
-5. **Kudvenkat** - https://lnkd.in/gZSQbS-e 
+- [Basic](https://lnkd.in/gEPqCqUh)
+- [Intermediate](https://lnkd.in/g_sYJgw3)
+- [Advanced](https://lnkd.in/gzt72UdA)
+
+
+**2. PildorasInformativas**
+- [Curso SQL](https://www.youtube.com/watch?v=iOiyJgnN71c&list=PLU8oAlHdN5Bmx-LChV4K3MbHrpZKefNwn)
+
+
+3. **Programming with Mosh** - 3-hour course - https://lnkd.in/gAiZwfQQ
+4. **freeCodeCamp** - 4-hour course  - https://lnkd.in/gH9tYvsx
+5. **Edureka** - 4-hour tutorial - https://lnkd.in/gAwYniXM
+6. **Kudvenkat** - https://lnkd.in/gZSQbS-e 
 
 ***
 
