@@ -61,22 +61,22 @@ Here's a comprehensive list of free SQL resources which most of them I have prac
 2. **Kaggle**
 - [Intro to SQL](https://lnkd.in/gbGFuaKm)
 - [Advanced SQL](https://lnkd.in/gpCrW74C)
-3. **Danny Ma's SQL Masterclass Course](https://lnkd.in/ge7zyWzu)
+3. Danny Ma's SQL Masterclass Course](https://lnkd.in/ge7zyWzu)
 
 ***
 
 ## 🔎 Quizzes
-1. **SQL Murder Mystery** - https://lnkd.in/gmZvA-i8
-2. **SQL Bolt** - https://sqlbolt.com/
-3. **Select Star SQL** - https://selectstarsql.com/
-4. **W3schools** - https://lnkd.in/gXyQF3eU
-5. **SQL Zoo** - https://sqlzoo.net
+1. [SQL Murder Mystery](https://lnkd.in/gmZvA-i8)
+2. [SQL Bolt](https://sqlbolt.com/)
+3. [Select Star SQL](https://selectstarsql.com/)
+4. [W3schools](https://lnkd.in/gXyQF3eU)
+5. [SQL Zoo](https://sqlzoo.net)
 
 ***
 
 ## 🔎 Projects/Case Studies
-1. **Covid-19 Project** - https://lnkd.in/g8PqmFzb
-2. **8 Week SQL Challenges** - https://lnkd.in/gjucZR6T. Check out my repo for solutions: https://lnkd.in/gkaNAibU
+1. [Covid-19 Project](https://lnkd.in/g8PqmFzb)
+2. [8 Week SQL Challenges](https://lnkd.in/gjucZR6T). Check out my repo for solutions: https://lnkd.in/gkaNAibU
 
 ***
 
