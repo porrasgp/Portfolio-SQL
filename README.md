@@ -57,11 +57,11 @@ Here's a comprehensive list of free SQL resources which most of them I have prac
 ***
 
 ## 📚 Courses
-1. **Udacity SQL for Data Analysis** - https://lnkd.in/gzsyYZs4
+1. [Udacity SQL for Data Analysis](https://lnkd.in/gzsyYZs4)
 2. **Kaggle**
-- Intro to SQL - https://lnkd.in/gbGFuaKm
-- Advanced SQL - https://lnkd.in/gpCrW74C
-3. **Danny Ma's SQL Masterclass Course** - https://lnkd.in/ge7zyWzu
+- [Intro to SQL](https://lnkd.in/gbGFuaKm)
+- [Advanced SQL](https://lnkd.in/gpCrW74C)
+3. **Danny Ma's SQL Masterclass Course](https://lnkd.in/ge7zyWzu)
 
 ***
 
@@ -81,8 +81,8 @@ Here's a comprehensive list of free SQL resources which most of them I have prac
 ***
 
 ## 📝 Practice
-1. StrataScratch - https://lnkd.in/gBTMYcmm
-2. LeetCode - https://lnkd.in/gXv63ebx
-3. HackerRank - https://lnkd.in/gAywRHs6
+1. [StrataScratch](https://lnkd.in/gBTMYcmm)
+2. [LeetCode](https://lnkd.in/gXv63ebx)
+3. [HackerRank](https://lnkd.in/gAywRHs6)
 
 ***
