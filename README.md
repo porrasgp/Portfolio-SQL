@@ -61,7 +61,7 @@ Here's a comprehensive list of free SQL resources which most of them I have prac
 2. **Kaggle**
 - [Intro to SQL](https://lnkd.in/gbGFuaKm)
 - [Advanced SQL](https://lnkd.in/gpCrW74C)
-3. Danny Ma's SQL Masterclass Course](https://lnkd.in/ge7zyWzu)
+3. [Danny Ma's SQL Masterclass Course](https://lnkd.in/ge7zyWzu)
 
 ***
 
