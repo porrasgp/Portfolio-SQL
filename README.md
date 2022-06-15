@@ -4,7 +4,7 @@ A guide and summary to my projects and case studies for SQL.  Structured Query L
 
 Hi there! 🙋🏻‍♀️
 
-Welcome to my Portfolio Guide where I provide a walkthrough to all of my data analytics projects and courses.
+Welcome to my SQL Portfolio Guide where I provide a walkthrough to all of my SQL projects and suggest courses.
 
 Feel free to chat with me on [LinkedIn](https://www.linkedin.com/in/porrasgp/) about my projects!
 
