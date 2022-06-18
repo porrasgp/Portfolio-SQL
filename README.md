@@ -24,9 +24,9 @@ Functions: Aggregations, Joins, CTEs, Window functions (aggregates, ranking, run
 
 | Project Name | Description | SQL Functions |
 |---|---|---|
-| 🛍 [Maven Fuzzy Factory - Ongoing](https://github.com/katiehuangx/Udemy-Advanced-MySQL) | I analyse and optimise marketing channels, measure and test website conversion performance and use data to understand impact of new product and campaign launches for an online retailer. | Advanced SQL |   
-| 👩🏻‍⚕️ [Health Analytics Case Study](https://github.com/katiehuangx/Serious-SQL-Apprenticeship/blob/main/Health%20Analytics%20Mini%20Case%20Study.md) |  | Temporary tables, Aggregations, Joins, CTEs, Window functions (summary statistics: mode, median) |  
-| 🦠 [Covid-19 and the Impact on Malaysia Stock Market](https://github.com/katiehuangx/Covid-19-and-Impact-on-Malaysia-stock-market) | A project close to 🏡 home. Inspired by Alex Freberg's [Data Exploration Project](https://www.youtube.com/watch?v=qfyynHBFOsM&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=1), I analysed global and local Covid-19 cases & the impact on Malaysia stock market from Jan 2020 to Jul 2021 using SQL and Tableau. |
+| ⭐️ [Basic SQL Course](https://github.com/katiehuangx/Udemy-Advanced-MySQL) | I analyse and optimise marketing channels, measure and test website conversion performance and use data to understand impact of new product and campaign launches for an online retailer. | Advanced SQL |   
+| ⭐️⭐️[Intermidiate SQL Course](https://github.com/katiehuangx/Serious-SQL-Apprenticeship/blob/main/Health%20Analytics%20Mini%20Case%20Study.md) |  | Temporary tables, Aggregations, Joins, CTEs, Window functions (summary statistics: mode, median) |  
+| ⭐️⭐️⭐️[Advance SQL Course](https://github.com/katiehuangx/Covid-19-and-Impact-on-Malaysia-stock-market) | A project close to 🏡 home. Inspired by Alex Freberg's [Data Exploration Project](https://www.youtube.com/watch?v=qfyynHBFOsM&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=1), I analysed global and local Covid-19 cases & the impact on Malaysia stock market from Jan 2020 to Jul 2021 using SQL and Tableau. |
 
 ***
 
