@@ -87,43 +87,31 @@ Here's a comprehensive list of free SQL resources which most of them I have prac
 
 ***
 
-## 📝 Practice
+## 📝 Top 3 Books 
 1. [StrataScratch](https://lnkd.in/gBTMYcmm)
 2. [LeetCode](https://lnkd.in/gXv63ebx)
 3. [HackerRank](https://lnkd.in/gAywRHs6)
 
 ***
-## 📝 Practice
+## 📝 Podcast
 1. [StrataScratch](https://lnkd.in/gBTMYcmm)
 2. [LeetCode](https://lnkd.in/gXv63ebx)
 3. [HackerRank](https://lnkd.in/gAywRHs6)
 
 ***
-## 📝 Practice
+## 📝 Medium 
 1. [StrataScratch](https://lnkd.in/gBTMYcmm)
 2. [LeetCode](https://lnkd.in/gXv63ebx)
 3. [HackerRank](https://lnkd.in/gAywRHs6)
 
 ***
-## 📝 Practice
+## 📝 Certifications
 1. [StrataScratch](https://lnkd.in/gBTMYcmm)
 2. [LeetCode](https://lnkd.in/gXv63ebx)
 3. [HackerRank](https://lnkd.in/gAywRHs6)
 
 ***
-## 📝 Practice
-1. [StrataScratch](https://lnkd.in/gBTMYcmm)
-2. [LeetCode](https://lnkd.in/gXv63ebx)
-3. [HackerRank](https://lnkd.in/gAywRHs6)
-
-***
-## 📝 Practice
-1. [StrataScratch](https://lnkd.in/gBTMYcmm)
-2. [LeetCode](https://lnkd.in/gXv63ebx)
-3. [HackerRank](https://lnkd.in/gAywRHs6)
-
-***
-## 📝 Practice
+## 📝 SQL Position Requirement
 1. [StrataScratch](https://lnkd.in/gBTMYcmm)
 2. [LeetCode](https://lnkd.in/gXv63ebx)
 3. [HackerRank](https://lnkd.in/gAywRHs6)
