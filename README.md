@@ -87,31 +87,31 @@ Here's a comprehensive list of free SQL resources which most of them I have prac
 
 ***
 
-## 📝 Top 3 Books 
+## 📓 Top 3 Books 
 1. [StrataScratch](https://lnkd.in/gBTMYcmm)
 2. [LeetCode](https://lnkd.in/gXv63ebx)
 3. [HackerRank](https://lnkd.in/gAywRHs6)
 
 ***
-## 📝 Podcast
+## 🎙️ Podcast
 1. [StrataScratch](https://lnkd.in/gBTMYcmm)
 2. [LeetCode](https://lnkd.in/gXv63ebx)
 3. [HackerRank](https://lnkd.in/gAywRHs6)
 
 ***
-## 📝 Medium 
+## 📖 Medium 
 1. [StrataScratch](https://lnkd.in/gBTMYcmm)
 2. [LeetCode](https://lnkd.in/gXv63ebx)
 3. [HackerRank](https://lnkd.in/gAywRHs6)
 
 ***
-## 📝 Certifications
+## 🎖️ Certifications
 1. [StrataScratch](https://lnkd.in/gBTMYcmm)
 2. [LeetCode](https://lnkd.in/gXv63ebx)
 3. [HackerRank](https://lnkd.in/gAywRHs6)
 
 ***
-## 📝 SQL Position Requirement
+## 🧰 SQL Position Requirement
 1. [StrataScratch](https://lnkd.in/gBTMYcmm)
 2. [LeetCode](https://lnkd.in/gXv63ebx)
 3. [HackerRank](https://lnkd.in/gAywRHs6)
