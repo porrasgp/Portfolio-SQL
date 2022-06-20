@@ -94,9 +94,9 @@ Here's a comprehensive list of free SQL resources which most of them I have prac
 
 ***
 ## 🎙️ Podcast
-1. [StrataScratch](https://lnkd.in/gBTMYcmm)
-2. [LeetCode](https://lnkd.in/gXv63ebx)
-3. [HackerRank](https://lnkd.in/gAywRHs6)
+1. [SQL Server Radio](https://open.spotify.com/show/2f2y0Y7LyMxWux5NlRMuD4)
+2. [SQL Data Partners Podcast](https://open.spotify.com/show/0JEmCobtRCoVgxR8ApO9zl)
+3. [Ask SQL Family](https://open.spotify.com/show/0r6bAlH174dxLDAw8QS2z1?si=rfIbYehmRVSNDQxUiLKd2A&nd=1)
 
 ***
 ## 📖 Medium 
