@@ -37,6 +37,16 @@ Functions: Aggregations, Joins, CTEs, Window functions (aggregates, ranking, run
 Here's a comprehensive list of free SQL resources which most of them I have practiced and attempted myself or are highly recommended for beginners regardless of whether you're from data or non-data background.
 
 ***
+## 🧰 Positions you can land with SQL
+1. Business Analyst
+2. Data Scientist
+3. Software Engineer
+4. Data Engineer
+5. Database Administrator
+6. Quality Assurance Tester
+7. Researcher / Educator
+8. Journalist
+***
 
 ## 📺 YouTube
 **1. Alex Freberg**
@@ -44,15 +54,12 @@ Here's a comprehensive list of free SQL resources which most of them I have prac
 - [Intermediate](https://lnkd.in/g_sYJgw3)
 - [Advanced](https://lnkd.in/gzt72UdA)
 
+## 🎖️ Certifications
+1. [Microsoft Certified: Azure Data Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/azure-data-fundamentals/)
+2. [IBM Certified Database Associate](https://www.ibm.com/training/certification/08002305)
+3. [Oracle Database SQL Certified Associate Certification](https://education.oracle.com/es/cat%C3%A1logo-de-productos-outrackpath-trackp_457/trackp_457)
 
-**2. PildorasInformativas**
-- [Curso SQL](https://www.youtube.com/watch?v=iOiyJgnN71c&list=PLU8oAlHdN5Bmx-LChV4K3MbHrpZKefNwn)
-
-
-3. [Programming with Mosh](https://lnkd.in/gAiZwfQQ)
-4. [freeCodeCamp](https://lnkd.in/gH9tYvsx)
-5. [Edureka](https://lnkd.in/gAwYniXM)
-6. [Kudvenkat](https://lnkd.in/gZSQbS-e) 
+***
 
 ***
 
@@ -64,6 +71,14 @@ Here's a comprehensive list of free SQL resources which most of them I have prac
 3. [Danny Ma's SQL Masterclass Course](https://lnkd.in/ge7zyWzu)
 
 ***
+
+**2. PildorasInformativas**
+- [Curso SQL](https://www.youtube.com/watch?v=iOiyJgnN71c&list=PLU8oAlHdN5Bmx-LChV4K3MbHrpZKefNwn)
+
+3. [Programming with Mosh](https://lnkd.in/gAiZwfQQ)
+4. [freeCodeCamp](https://lnkd.in/gH9tYvsx)
+5. [Edureka](https://lnkd.in/gAwYniXM)
+6. [Kudvenkat](https://lnkd.in/gZSQbS-e) 
 
 ## 🔎 Quizzes
 1. [SQL Murder Mystery](https://lnkd.in/gmZvA-i8)
@@ -105,20 +120,6 @@ Here's a comprehensive list of free SQL resources which most of them I have prac
 3. [10 SQL Queries You Should Know as a Data Scientist](https://selectfrom.dev/10-sql-queriesyou-should-know-as-a-data-scientist-8bf616204765)
 
 ***
-## 🎖️ Certifications
-1. [Microsoft Certified: Azure Data Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/azure-data-fundamentals/)
-2. [IBM Certified Database Associate](https://www.ibm.com/training/certification/08002305)
-3. [Oracle Database SQL Certified Associate Certification](https://education.oracle.com/es/cat%C3%A1logo-de-productos-outrackpath-trackp_457/trackp_457)
 
-***
-## 🧰 Positions you can land with SQL
-1. Business Analyst
-2. Data Scientist
-3. Software Engineer
-4. Data Engineer
-5. Database Administrator
-6. Quality Assurance Tester
-7. Researcher / Educator
-8. Journalist
-***
+
 
