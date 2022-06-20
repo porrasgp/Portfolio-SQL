@@ -106,8 +106,8 @@ Here's a comprehensive list of free SQL resources which most of them I have prac
 
 ***
 ## 🎖️ Certifications
-1. [Microsoft Certified: Azure Data Fundamentals]([https://lnkd.in/gBTMYcmm](https://docs.microsoft.com/en-us/learn/certifications/azure-data-fundamentals/))
-2. [IBM Certified Database Associate]([https://lnkd.in/gXv63ebx](https://www.ibm.com/training/certification/08002305))
+1. [Microsoft Certified: Azure Data Fundamentals]([https://lnkd.in/gBTMYcmm](https://docs.microsoft.com/en-us/learn/certifications/azure-data-fundamentals/)
+2. [IBM Certified Database Associate]([https://lnkd.in/gXv63ebx](https://www.ibm.com/training/certification/08002305)
 3. [Oracle Database SQL Certified Associate Certification](https://education.oracle.com/es/cat%C3%A1logo-de-productos-outrackpath-trackp_457/trackp_457)
 
 ***
