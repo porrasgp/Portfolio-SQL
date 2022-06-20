@@ -112,13 +112,13 @@ Here's a comprehensive list of free SQL resources which most of them I have prac
 
 ***
 ## 🧰 SQL Position Requirement
-1. [Business Analyst]
-2. [Data Scientist]
-3. [Software Engineer]
-4. [Data Engineer]
-5. [Database Administrator]
-6. [Quality Assurance Tester]
-7. [Researcher / Educator]
-8. [Journalist]
+1. Business Analyst
+2. Data Scientist
+3. Software Engineer
+4. Data Engineer
+5. Database Administrator
+6. Quality Assurance Tester
+7. Researcher / Educator
+8. Journalist
 ***
 
