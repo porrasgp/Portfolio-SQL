@@ -88,7 +88,7 @@ Here's a comprehensive list of free SQL resources which most of them I have prac
 ***
 
 ## 📓 Top 3 Books 
-1. [SQL Cookbook](https://www.amazon.com/SQL-Cookbook-Solutions-Techniques-Developers/dp/0596009763?tag=hackr-20&geniuslink=true))
+1. [SQL Cookbook](https://www.amazon.com/SQL-Cookbook-Solutions-Techniques-Developers/dp/0596009763?tag=hackr-20&geniuslink=true)
 2. [Head First SQL](https://www.amazon.com/Head-First-SQL-Brain-Learners/dp/0596526849?tag=hackr-20&geniuslink=true)
 3. [Learning SQL](https://www.amazon.com/Learning-SQL-Generate-Manipulate-Retrieve/dp/1492057614?dchild=1&keywords=sql&qid=1628274793&refinements=p_72:1250221011&rnid=1250219011&s=books&sr=1-4&linkCode=sl1&tag=solutionsre04-20&linkId=7f75b39d0af069a148e9db7b6d863bd0&language=en_US&ref_=as_li_ss_tl)
 
