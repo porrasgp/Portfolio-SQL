@@ -100,9 +100,9 @@ Here's a comprehensive list of free SQL resources which most of them I have prac
 
 ***
 ## 📖 Medium 
-1. [StrataScratch](https://lnkd.in/gBTMYcmm)
-2. [LeetCode](https://lnkd.in/gXv63ebx)
-3. [HackerRank](https://lnkd.in/gAywRHs6)
+1. [Writing good SQL](https://towardsdatascience.com/writing-good-sql-ccb578ff9919)
+2. [How to build advanced SQL](https://better-programming.pub/how-to-build-advanced-sql-798d615ba323)
+3. [10 SQL Queries You Should Know as a Data Scientist](https://selectfrom.dev/10-sql-queriesyou-should-know-as-a-data-scientist-8bf616204765)
 
 ***
 ## 🎖️ Certifications
