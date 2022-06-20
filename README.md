@@ -111,7 +111,7 @@ Here's a comprehensive list of free SQL resources which most of them I have prac
 3. [Oracle Database SQL Certified Associate Certification](https://education.oracle.com/es/cat%C3%A1logo-de-productos-outrackpath-trackp_457/trackp_457)
 
 ***
-## 🧰 SQL Position Requirement
+## 🧰 Positions you can land with SQL
 1. Business Analyst
 2. Data Scientist
 3. Software Engineer
